@@ -1,3 +1,12 @@
+# Live Site
+
+http://chatapp.narxtech.com/
+
+# Demo User
+
+Username: testkullanici
+Password: 123123
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
